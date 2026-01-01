@@ -19,9 +19,7 @@ A modern, responsive note-taking web application built with a Django REST API ba
 
 ## Demo
 
-_Add screenshots or a demo GIF here to show off the app._
-
-![screenshot-placeholder](docs/screenshot.png)
+****
 
 ---
 
